@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled Java files and build output
+*.class
+out/
+build/
+target/
+
+# Subversion metadata
+.svn/
